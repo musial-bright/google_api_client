@@ -1,0 +1,15 @@
+Google Docs API
+Adam Musial-Bright
+
+General                : http://code.google.com
+API Directory          : http://code.google.com/apis/gdata/docs/directory.html
+Clients                : http://code.google.com/apis/spreadsheets/code.html
+Eclipse setup/new app  : http://code.google.com/apis/gdata/articles/eclipse.html
+ -> missing dependency : /gdata/java/deps/google-collect-1.0-rc1.jar (gdata-samples.java-1.43.0.zip)
+Getting started (Java) : http://code.google.com/apis/gdata/articles/java_client_lib.html
+Java Guide             : http://code.google.com/apis/documents/docs/3.0/developers_guide_java.html
+
+Usage:
+  - Import into Eclipse
+  - Set you Google user/password in /user.properties
+  - Run com.amb.google.client.Console read
